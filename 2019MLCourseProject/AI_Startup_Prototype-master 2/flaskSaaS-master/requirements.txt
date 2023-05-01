@@ -1,6 +1,6 @@
 Tensorflow==1.13.1
 Keras==2.2.4
-Flask==0.10.1
+Flask==2.3.2
 Flask-Admin==1.3.0
 Flask-Bcrypt==0.7.1
 Flask-DebugToolbar==0.10.0
